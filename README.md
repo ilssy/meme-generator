@@ -1,3 +1,5 @@
+Meme generator following the [Scrimba Learn React tutorial](https://scrimba.com/g/glearnreact) by Bob Ziroll.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
